@@ -1,20 +1,14 @@
-### Hi, I'm Ayesha Anwar 👋  
-I'm a Data Science undergrad at KFUEIT, passionate about building smart, real-world solutions with Machine Learning and AI.
+### Hi, I'm Ayesha Anwar, a Data Science undergraduate at Khwaja Fareed University (KFUEIT). 
+I’m passionate about bridging the gap between complex data and intelligent systems.  I spend most of my time diving into Machine Learning, Computer Vision, and Distributed Computing. Whether it’s building hybrid recommender systems or scaling models using PySpark and Dask, I love the process of turning raw data into something functional.   
+💻 Tech Stack: Python, SQL, TensorFlow, and PySpark.  
+🌱 Learning: Constantly refining my skills in deep learning and Data analysis. 
 
-🔬 Currently:  
-- Exploring ML, AI, and databases  
-- Working on practical projects that turn theory into impact  
-- Researching data-driven solutions in healthcare and beyond
+Technical SkillsLanguages: Python, Java, C++, SQL.
+Frameworks: Scikit-learn, TensorFlow, Keras, PySpark, Dask.
+Specialties: NLP, Computer Vision, Recommender Systems, and Geospatial Analysis.
 
-📚 Certifications:  
-- Machine Learning Specialization by Andrew Ng  
-- Version Control by Meta (Git & GitHub)
-
-🧠 Member at The Wise Sapiens — promoting STEM, science, and rational thinking  
-📖 Also into books, Urdu poetry, and deep-dive Netflix binges
-
-> "I'm not just writing code — I'm telling stories with data."
+Key Projects: Netflix Hybrid Recommender: A movie recommendation engine for 610+ users using TF-IDF and collaborative filtering.  Brain Tumor Detection: Distributed deep learning pipeline using VGG16 and PySpark. 
+Spatio-Temporal Crime Analysis: Large-scale urban analytics using parallel computation.  "
 <!---
-Ayesha-Anwar607/Ayesha-Anwar607 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
 --->
