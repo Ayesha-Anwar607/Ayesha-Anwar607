@@ -15,6 +15,8 @@ Hi there, I'm Ayesha Anwar 👋
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayesha-Anwar607&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+## 📈 Contribution Graph:
+![](https://github-readme-activity-graph.vercel.app/graph?username=Ayesha-Anwar607&theme=react-dark&hide_border=false)
 
 ## 📄 Publication
 
