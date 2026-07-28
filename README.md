@@ -12,7 +12,6 @@ Hi there, I'm Ayesha Anwar 👋
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Ayesha-Anwar607&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Ayesha-Anwar607&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayesha-Anwar607&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 ## 📈 Contribution Graph:
