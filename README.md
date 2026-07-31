@@ -1,7 +1,7 @@
 Hi there, I'm Ayesha Anwar 
 
 #  About Me:
- Final-Year Data Science Student at KFUEIT<br>⚙️ Data Engineer & ML Practitioner — building pipelines that scale and models that ship<br>🚀 From raw data to deployed APIs, full path
+ Final-Year Data Science Student at KFUEIT<br> Data Engineer & ML Practitioner — building pipelines that scale and models that ship<br> From raw data to deployed APIs, full path
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-anwar-3b73b8349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hayesha1744@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ayeshaanwar01) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayesha_Anwar/)
