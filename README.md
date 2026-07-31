@@ -1,7 +1,7 @@
-Hi there, I'm Ayesha Anwar 👋
+Hi there, I'm Ayesha Anwar 
 
 #  About Me:
-🎓 Final-Year Data Science Student at KFUEIT<br>⚙️ Data Engineer & ML Practitioner — building pipelines that scale and models that ship<br>🚀 From raw data to deployed APIs, full path
+ Final-Year Data Science Student at KFUEIT<br>⚙️ Data Engineer & ML Practitioner — building pipelines that scale and models that ship<br>🚀 From raw data to deployed APIs, full path
 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-anwar-3b73b8349) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hayesha1744@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/ayeshaanwar01) [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Ayesha_Anwar/)
@@ -30,11 +30,10 @@ Hi there, I'm Ayesha Anwar 👋
 -  **CineMatch — Hybrid Movie Recommender System** — Two-stage recommender combining content-based and collaborative filtering into an XGBoost ranking model, deployed end-to-end as a live REST API (RMSE 0.74, NDCG@5 0.81)
 -  **faker-pk (PyPI Package)** — Migrated the core data layer to SQLite, built a database initializer and query-helper utilities, and added an education-data module with city/province filtering
 -  **E-Commerce Market Intelligence & Distributed Processing** — Distributed pipeline over 65,000+ e-commerce reviews across Pandas, Dask, and PySpark, cutting repeated aggregate query time by 50%
--  **Spatio-Temporal Crime Analysis** — Large-scale urban analytics mapping and forecasting regional crime trends using parallel computation
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayesha-anwar-3b73b8349)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ayesha-Anwar607)
